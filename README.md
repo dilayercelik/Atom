@@ -1,1 +1,1 @@
-# Atom-Udacity-python
+# Atom
